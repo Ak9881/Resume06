@@ -1,0 +1,16 @@
+git status
+$ git init
+git status
+git commit -m "Version 1"
+$ git log
+After chaging any code or file
+git status
+git add .
+$ git commit -m "Version 2"
+Token - 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 
+git remote add url.origin https://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@github.com/Ak9881/pratice01
+CNN - git remote add url.origin https://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@github.com/Ak9881/
+$ git push -u origin main
+git config --global http.serverify false
+
+
